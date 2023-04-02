@@ -16,3 +16,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Elise está infeliz, desempregada e vivendo como dona de casa para seu marido Rick, um rico empresário. Ao investigar se está sendo traída, ela conhece Felix, um fotógrafo misterioso e sedutor. Uma paixão arrebatadora surge entre os dois, e ele leva Elise a experimentar sensações e fantasias sexuais que ela nunca imaginou.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] ROMANCE Á LA CARTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73ae3c97dc16d560567f04d16092b78776a8db4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9CBiUy6Kt94Yxh9M11Pw3rGnuwW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de herdar o café de sua tia, a chefe de cozinha Caroline viaja de Nova York para Austrália com a intenção de reformar e vender o estabelecimento. Mas, quando chega lá, ela acaba se encantando pelo lugar e por Simon, o charmoso cozinheiro local. Agora Caroline precisa decidir entre vender o café e voltar para sua antiga vida ou se aventurar em busca de um romance longe de casa.</info>
+</item>
