@@ -1,6 +1,15 @@
 # ROMANCE-UPDATE
 
 
+
+<item>
+<title>[COLOR silver][B] MEMÓRIAS DE UM AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15ba60de6767f21b2afc4db41a1f09b07f05ce81</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p9XUuQyDWJn4Tnn9iW2BGRCJf15.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Imagine acordar em um mundo onde uma pandemia estourou, que ataca sem rima ou razão, e faz com que suas vítimas percam suas memórias. Imagine acordar e não lembrar da pessoa que você ama. Este é o mundo em que os recém-casados Emma e Jude se encontram, pouco tempo depois de se conhecerem e se apaixonarem. Quando Jude contrair a doença, o jovem casal fará qualquer coisa para manter a memória de seu amor. Mas como você constrói um futuro quando você continua tendo que reconstruir o passado?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DE REPENTE É O AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a406a64cc383ef809b6e355f0fee559899dc1f9</link>
