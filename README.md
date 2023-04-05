@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COM AMOR E MUITA INSPIRAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d739f6dd5eab41ba9ecdd039a7b22aa0e25cd957</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8YERneVcvnmkZZ5VLkphr8issbN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mulher tenta salvar o negócio de sapatos de sua família, que está à beira do colapso financeiro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DE REPENTE É O AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a406a64cc383ef809b6e355f0fee559899dc1f9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p8DBnMb9k5vpywy3n7sMpKnbV5X.jpg</thumbnail>
