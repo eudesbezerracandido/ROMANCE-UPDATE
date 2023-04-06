@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DESEJOS PROIBIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98eed8ac8a748f899529f3798548721a170264ef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tjlBZxFrqEAZP73BFPO4iOlS0yY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Elise está infeliz, desempregada e vivendo como dona de casa para seu marido Rick, um rico empresário. Ao investigar se está sendo traída, ela conhece Felix, um fotógrafo misterioso e sedutor. Uma paixão arrebatadora surge entre os dois, e ele leva Elise a experimentar sensações e fantasias sexuais que ela nunca imaginou.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEMÓRIAS DE UM AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15ba60de6767f21b2afc4db41a1f09b07f05ce81</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p9XUuQyDWJn4Tnn9iW2BGRCJf15.jpg</thumbnail>
