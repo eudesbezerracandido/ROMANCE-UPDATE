@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] UM HOMEM DE SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F714291D4148264AFCFE5F7FC3355657CA6A99E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f1Fc5IPLbOsGidnudNpL2RTVoKm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em meio a uma batalha em plena Guerra do Iraque, o fuzileiro Logan Thibault (Zac Efron) encontra no chão a foto de uma mulher desconhecida. Ele a guarda e passa a cuidá-la como se fosse um talismã, prometendo que, caso sobreviva à guerra, irá encontrá-la. Meses depois, ele retorna aos Estados Unidos e passa a pesquisar onde ela poderia morar a partir de pistas dadas pela própria foto. Ele a encontra em um canil, onde trabalha juntamente com a avó (Blythe Danner) e vive com o filho pequeno (Riley Thomas Stewart). Logan passa a também trabalhar no canil, sem revelar o verdadeiro motivo pelo qual chegou até ele.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESEJOS PROIBIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98eed8ac8a748f899529f3798548721a170264ef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tjlBZxFrqEAZP73BFPO4iOlS0yY.jpg</thumbnail>
