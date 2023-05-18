@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ORGULHO E PRECONCEITO: TORNANDO-LHE ELIZABETH BENNET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18fc8eec6d4d9f06c6171a90f08f145c47a9cbab</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sxznJhZRFvxDMzy8tLGv5Eitdw9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A aspirante a atriz Kate Miller é uma popular celebridade da internet nos Estados Unidos, fazendo vídeos para seus milhares de seguidores. Após conseguir o papel de sua vida ao ser escalada para interpretar Elizabeth Bennet em uma nova adaptação cinematográfica do famoso romance “Orgulho e Preconceito”, Kate tem dificuldade em aprender o sotaque britânico necessário para o sucesso de sua atuação. Até que ela conhece Will, o ator britânico com formação clássica que interpreta seu par no filme.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM HOMEM DE SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0F714291D4148264AFCFE5F7FC3355657CA6A99E</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f1Fc5IPLbOsGidnudNpL2RTVoKm.jpg</thumbnail>
