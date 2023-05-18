@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ROSALIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:643856b8a51568328c9910b48faa66a9d9551724</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Ad51mrs3azZMzHE6cLrCv9uSztP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma nova e cômica reviravolta na clássica história de amor de Shakespeare. “Romeu e Julieta”, contada da perspectiva da prima de Julieta, Rosalina, que também é o recente interesse amoroso de Romeu. Com o coração partido quando Romeu conhece Julieta e começa a persegui-la, Rosaline planeja frustrar o famoso romance e reconquistar seu namorado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR EM GRANDE ESTILO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bc17f996e7f222cbda0e4fafa41236d8f0d1d04</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5gXKzzbIEast05swrejhQu4J5rz.jpg</thumbnail>
