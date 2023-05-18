@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AMOR EM GRANDE ESTILO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bc17f996e7f222cbda0e4fafa41236d8f0d1d04</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5gXKzzbIEast05swrejhQu4J5rz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ella trabalha como costureira freelancer em uma revista de moda de alto perfil, e conhece o belo e charmoso Derek, que está prestes a assumir o negócio de revistas de seu pai.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESEJOS PROIBIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98eed8ac8a748f899529f3798548721a170264ef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tjlBZxFrqEAZP73BFPO4iOlS0yY.jpg</thumbnail>
