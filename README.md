@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] A INCRIVÉL HISTÓRIA DE ADALINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A62048DA175DAE462B6851ACA8C933D2D65BE047</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gU84OUm9c4R44Zx8U1YPbCzKqIo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Adaline Bowman (Blake Lively) nasceu na virada do século XX. Ela tinha uma vida normal até sofrer um grave acidente de carro. Desde então, ela, milagrosamente, não consegue mais envelhecer, se tornando um ser imortal com a aparência de 29 anos. Ela vive uma existência solitária, nunca se permitindo criar laços com ninguém, para não ter seu segredo revelado. Mas ela conhece o jovem filantropo, Ellis Jones (Michiel Huisman), um homem por quem pode valer a pena arriscar sua imortalidade.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ORGULHO E PRECONCEITO: TORNANDO-LHE ELIZABETH BENNET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18fc8eec6d4d9f06c6171a90f08f145c47a9cbab</link>
