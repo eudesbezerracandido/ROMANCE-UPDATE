@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] COINCIDÊNCIAS DA VIDA E GRANDES AMORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de294fea49983e60debf9089c861af31aac8065f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h2rOrmUqsdFoMQjKb93UPw6i9Gv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Coincidências da Vida e Grandes Amores Torrent – Nessa versão atualizada de um romance do século XIX, uma mulher vive uma batalha entre razão e paixão. Os temas universais de amor, honestidade e saudade aparecem na vida das pessoas que vivem numa longínqua ilha de um arquipélago da Finlândia, isolada do mundo afetado por uma pandemia.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A INCRIVÉL HISTÓRIA DE ADALINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A62048DA175DAE462B6851ACA8C933D2D65BE047</link>
