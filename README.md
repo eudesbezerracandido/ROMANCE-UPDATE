@@ -7,7 +7,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] DIAS DE DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PLTO4AA5EAOSEDNR7URBUG6IHMVIHCMT</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ihkJjmIPwno6uDF6njWcCwbL8a6.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Isabella é uma jovem e linda mulher, traumatizada pela morte de sua mãe italiana quando ela tinha apenas 13 anos. Após a tragédia, seu bem-sucedido pai britânico, Frank, se afundou no trabalho e se afastou da filha. Quando a nova esposa de seu pai, Claudia, o convence a fazer uma viagem de família para uma remota propriedade rural na Itália, Isabella se vê obrigada a ir, mesmo contra sua vontade. Mas tudo muda quando ela conhece o sedutor Matt e acaba tomada por desejos que não consegue controlar.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] COINCIDÊNCIAS DA VIDA E GRANDES AMORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
