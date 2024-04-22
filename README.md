@@ -7,6 +7,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] PRAZERES SECRETOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3LF3BW2NONAIJOUMCZ3KYQI2MIR3AY4</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/crhwucqk5DLk4jYHhpzOPbD09tc.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>: Arabella, uma estilista ingênua e esforçada, consegue o emprego de seus sonhos trabalhando para Marylin, uma romancista erótica de sucesso. Arabella descobre que a chefe tem diversas relações sexuais fora do casamento, e passa a se esconder para assisti-las. Até que Marylin assume que sabia o tempo todo que estava sendo vigiada pela jovem, e as duas começam um romance sedutor e cheio de manipulações, que terá consequências inimagináveis.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DIAS DE DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PLTO4AA5EAOSEDNR7URBUG6IHMVIHCMT</link>
